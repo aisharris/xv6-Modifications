@@ -1,0 +1,20 @@
+ICE CREAM:
+
+- N ice cream machines
+- working times for each machine
+- F flavours, with F prep times
+- T toppings, with T put times, T quantities
+- K capacity of parlor
+- arrival time for each customer
+
+
+- if all ing are over, parlor closes
+- each customer can make multiple orders with toppings for each
+- after placing order, check if ingredients are sufficient
+- if not, send them off(even if there are some ice creams that can be made)
+- if yes let them wait
+
+
+each order is a thread.
+before making thread check if all ingredients are there
+in the order thread

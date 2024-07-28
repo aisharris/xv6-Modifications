@@ -1,0 +1,15 @@
+2 3 2 3
+0 7
+4 10
+vanilla 3
+chocolate 4
+caramel -1
+brownie 4
+strawberry 4
+1 1 2
+vanilla caramel
+chocolate brownie strawberry
+2 2 1
+vanilla strawberry caramel
+
+
